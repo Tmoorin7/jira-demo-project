@@ -30,11 +30,11 @@ The JIRA board includes:
 
 | View | Description |
 |------|-------------|
-| ![Board View](screenshots/board-view.png) | Scrum board showing workflow |
-| ![User Story](screenshots/user-story-example.png) | Example of a well-structured user story |
-| ![Test Case](screenshots/test-case-task.png) | Task representing a test case linked to a story |
-| ![Bug Report](screenshots/bug-report.png) | Status transitions for tasks and stories |
-| ![Workflow](screenshots/workflow-status.png) | Status transitions for tasks and stories |
+| ![Board View](screenshots/board_view.png) | Scrum board showing workflow |
+| ![User Story](screenshots/user_story.png) | Example of a well-structured user story |
+| ![Test Case](screenshots/test_case.png) | Task representing a test case linked to a story |
+| ![Bug Report](screenshots/bug_report.png) | Status transitions for tasks and stories |
+| ![Workflow](screenshots/work_flow.png) | Status transitions for tasks and stories |
 
 ---
 
